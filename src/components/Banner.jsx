@@ -17,7 +17,7 @@ const Banner = () => {
             <div className="banner">
                 <div className="navbar">
                     <div>
-                        <h1 className='logo'>EsaLink</h1>
+                        <h1 className='logo'>ESALink</h1>
                         <p className='logo-txt'>DATA INTEGRATION</p>
                     </div>
                     <div className='nav-div'>
